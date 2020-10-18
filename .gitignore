@@ -1,3 +1,8 @@
 node_modules/
 .DS_Store
 test.js
+asin*.csv
+asin*.json
+product*.csv
+product*.json
+.idea/
